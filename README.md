@@ -26,7 +26,7 @@ __Commission-Based Payouts__: Brands pay influencers based on successful transac
 
 - __Fairness__: Payment tied directly to results.
   
-## For Brands: ##
+### For Brands: ###
 
 - __Targeted Marketing__: Reach engaged audiences.
 
