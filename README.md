@@ -12,7 +12,7 @@ Are you an influencer looking for exciting brand partnerships? Or a brand seekin
 
 - __Tracking and Analytics__: Our robust API tracks user interactions. We monitor clicks, conversions, and transactions on the brand’s site when users follow the influencer’s link.
 
-__Commission-Based Payouts__: Brands pay influencers based on successful transactions. No upfront costs! This performance-based model ensures fairness and transparency.
+- __Commission-Based Payouts__: Brands pay influencers based on successful transactions. No upfront costs! This performance-based model ensures fairness and transparency.
 
 ## Benefits: ##
 
